@@ -1,0 +1,16 @@
+PODS:
+  - Endpoints (0.4.6)
+
+DEPENDENCIES:
+  - Endpoints
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Endpoints
+
+SPEC CHECKSUMS:
+  Endpoints: 6adcbb48f26ec8c6db7ac103e5de922a140cbf1f
+
+PODFILE CHECKSUM: d529398f16077cd2e327a4f0cf43200fd4fb97b1
+
+COCOAPODS: 1.5.3
